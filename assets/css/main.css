@@ -2196,7 +2196,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.features section {
-				padding: 2.5em 1.5em 0.1em 5.5em ;
+				padding: 0em 0em 0em 0em ;
 			}
 
 				.features section .icon {
@@ -2209,7 +2209,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			.features section {
-				padding: 2em 1.5em 0.1em 1.5em ;
+				padding: 0em 0em 0em 0em ;
 			}
 
 				.features section .icon {
